@@ -1,0 +1,29 @@
+c:\users\erickdaniel\documents\visual studio 2015\Projects\Automatas de pila\Automatas de pila\bin\Debug\Automatas de pila.exe.config
+c:\users\erickdaniel\documents\visual studio 2015\Projects\Automatas de pila\Automatas de pila\bin\Debug\Automatas de pila.exe
+c:\users\erickdaniel\documents\visual studio 2015\Projects\Automatas de pila\Automatas de pila\bin\Debug\Automatas de pila.pdb
+c:\users\erickdaniel\documents\visual studio 2015\Projects\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.csprojResolveAssemblyReference.cache
+c:\users\erickdaniel\documents\visual studio 2015\Projects\Automatas de pila\Automatas de pila\obj\Debug\Automatas_de_pila.Form1.resources
+c:\users\erickdaniel\documents\visual studio 2015\Projects\Automatas de pila\Automatas de pila\obj\Debug\Automatas_de_pila.Properties.Resources.resources
+c:\users\erickdaniel\documents\visual studio 2015\Projects\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.csproj.GenerateResource.Cache
+c:\users\erickdaniel\documents\visual studio 2015\Projects\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.exe
+c:\users\erickdaniel\documents\visual studio 2015\Projects\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.pdb
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\bin\Debug\Automatas de pila.exe.config
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\bin\Debug\Automatas de pila.exe
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\bin\Debug\Automatas de pila.pdb
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.csprojResolveAssemblyReference.cache
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\obj\Debug\Automatas_de_pila.Form1.resources
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\obj\Debug\Automatas_de_pila.Properties.Resources.resources
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.csproj.GenerateResource.cache
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.exe
+C:\Users\jesus\Downloads\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.pdb
+E:\Automatas de pila\Automatas de pila\bin\Debug\Automatas de pila.exe.config
+E:\Automatas de pila\Automatas de pila\bin\Debug\Automatas de pila.exe
+E:\Automatas de pila\Automatas de pila\bin\Debug\Automatas de pila.pdb
+E:\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.csprojAssemblyReference.cache
+E:\Automatas de pila\Automatas de pila\obj\Debug\Automatas_de_pila.Form1.resources
+E:\Automatas de pila\Automatas de pila\obj\Debug\Automatas_de_pila.Properties.Resources.resources
+E:\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.csproj.GenerateResource.cache
+E:\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.csproj.CoreCompileInputs.cache
+E:\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.exe
+E:\Automatas de pila\Automatas de pila\obj\Debug\Automatas de pila.pdb
